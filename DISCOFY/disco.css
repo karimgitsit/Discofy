@@ -1,0 +1,7 @@
+#disco-container {
+  z-index: 9999;
+}
+
+#disco-ball {
+  transition: background 0.5s ease-in-out;
+}
